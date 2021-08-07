@@ -894,7 +894,7 @@
                     "size":24,
                     "sort":this.priceSearch,
                     "auctionType":this.auctionSearch,
-                    "owner":"0x573155f11be29e87dff1d8510f2676769dad0c0a",
+                    "owner": null,
                     "criteria":{
                         "region":null,
                         "parts":this.parts,
