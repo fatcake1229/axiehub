@@ -234,7 +234,7 @@
             miniVariant: true,
             right: false,
             rightDrawer: false,
-            title: 'Axie SLP'
+            title: 'Axie Infinity'
             }
         },
         filters:{

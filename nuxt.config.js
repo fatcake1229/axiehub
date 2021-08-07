@@ -4,7 +4,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s - Marketplace',
-    title: 'Axie SLP',
+    title: 'Axie Infinity',
     htmlAttrs: {
       lang: 'en'
     },
@@ -12,7 +12,7 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Axie Marketplace' },
-      { property: 'og:image', content: "~/assets/Terrarium_leak.png" || '' } ,
+      { hid: 'og:image', property: 'og:image', content: "/Terrarium_leak.png" },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
